@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishnunj17
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking for data science intern
+- 💞️ I’m looking for colloborate on python ML
 - 📫 vishnunj170903@gmail.com
 
 <!---
